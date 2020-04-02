@@ -1,0 +1,20 @@
+
+body {
+    direction: rtl;
+
+}
+
+#banner2 {
+
+    background: url("../img/banner.jpg") no-repeat;
+    background-size: cover;
+    min-height: 1200px;
+    opacity: 80%;
+
+}
+h3{
+    color: #e43c5c;
+    font-weight: 600;
+    font-size: 50px;
+
+}
